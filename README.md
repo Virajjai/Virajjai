@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about web development, especially c
 
 - 🌱 I’m currently learning and expanding my knowledge in full-stack development.
 - 💼 Currently working on a payment web application.
-- 💬 Ask me about anything related to web development, JavaScript, React, Node.js, and MongoDB.
+- 💬 Ask me about anything related to web development, Web3.
 
 ### [Payment Web Application](https://github.com/Virajjai/payment-web-app)
 A robust and secure payment web application designed to handle various types of transactions. Features include:

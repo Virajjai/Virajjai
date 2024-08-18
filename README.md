@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about web development, especially c
 - 💼 Currently working on a payment web application.
 - 💬 Ask me about anything related to web development, Web3.
 
-### [Payment Web Application](https://github.com/Virajjai/payment-web-app)
+### [Payment Web Application](https://github.com/Virajjai/pay-2)
 A robust and secure payment web application designed to handle various types of transactions. Features include:
 - User authentication and authorization
 - Secure payment processing

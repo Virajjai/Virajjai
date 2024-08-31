@@ -1,25 +1,30 @@
 <h2 align="left">Hi 👋! My name is Viraj Jaiswal </h2>
 Welcome to my GitHub profile! I'm passionate about web development, especially creating robust and secure applications. Below you'll find a bit about me and my work.
 
+Check out my [![Personal Portfolio](https://img.shields.io/badge/Portfolio-website-blue?logo=link&logoColor=white)](https://virajjai.github.io/personal-portfolio/) to see a comprehensive overview of my work, including detailed project descriptions, design showcases, and my latest achievements.
+
+
 ## About Me
 
 - 🌱 I’m currently learning and expanding my knowledge in full-stack development.
 - 💼 Currently working on a payment web application.
 - 💬 Ask me about anything related to web development, Web3.
 
-### [Payment Web Application](https://github.com/Virajjai/pay-2)
-A robust and secure payment web application designed to handle various types of transactions. Features include:
-- User authentication and authorization
-- Secure payment processing
-- Transaction history tracking
-- Responsive design
-- Admin dashboard
-- Multi-currency support
-- Email notifications
+## Current Project: Web 3 UPI Application
+
+I am currently developing a Web 3 UPI (Unified Payments Interface) application aimed at integrating decentralized financial services with traditional payment systems. This project involves:
+
+- **Vision:** To provide a seamless, decentralized payment experience that bridges the gap between traditional banking and blockchain technology, enabling users to make and receive payments effortlessly using digital assets.
+
+- **Technology Stack:**
+  - **Blockchain:** Ethereum and Solidity for smart contract development
+  - **Web3 Integration:** Use of Web3.js or Ethers.js for interacting with the Ethereum blockchain
+  - **Frontend:** React.js for building a responsive and intuitive user interface
+  - **Backend:** Node.js and Express for server-side logic and API management
+  - **Smart Contracts:** Development and deployment of smart contracts for secure transactions
+  - **Wallet Integration:** Incorporating MetaMask or similar wallets for user authentication and transactions
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/BfvDcRC6kioAAAAd/the-boys-william-butcher.gif"  />
 
 ###
 
@@ -99,11 +104,10 @@ A robust and secure payment web application designed to handle various types of 
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Contact
+- **Email:** [jaiswalviraj72005@gmail.com](mailto:jaiswalviraj72005@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virajjai-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linke](https://www.linkedin.com/in/virajjaiswal72/))
+- **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-Virajjai-blue?logo=twitter&logoColor=white)](https://twitter.com/Virajjai72)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Virajjai-blue?logo=github&logoColor=white)](https://github.com/Virajjai)
 
 ###

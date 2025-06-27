@@ -1,113 +1,96 @@
-<h2 align="left">Hi 👋! My name is Viraj Jaiswal </h2>
-Welcome to my GitHub profile! I'm passionate about web development, especially creating robust and secure applications. Below you'll find a bit about me and my work.
+<h1 align="center">Hi, I'm Viraj Jaiswal 👋</h1>
 
-Check out my [![Personal Portfolio](https://img.shields.io/badge/Portfolio-website-blue?logo=link&logoColor=white)](https://virajjai.github.io/personal-portfolio/) to see a comprehensive overview of my work, including detailed project descriptions, design showcases, and my latest achievements.
+<p align="center">
+  🚀 Backend Developer | 📈 Fintech + ML Enthusiast | 🧠 Systems Thinker  
+</p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/virajjai/"><img src="https://img.shields.io/badge/LeetCode-virajjai-orange?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/virajjaiswal72/"><img src="https://img.shields.io/badge/LinkedIn-VirajJaiswal-blue?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="mailto:jaiswalviraj72005@email.com"><img src="https://img.shields.io/badge/Email-jaiswalviraj72005@email.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://virajjai.github.io/personal-portfolio"><img src="https://img.shields.io/badge/Portfolio-virajjai.github.io-green?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+</p>
 
-## About Me
+---
 
-- 🌱 I’m currently learning and expanding my knowledge in full-stack development.
-- 💼 Currently working on a payment web application.
-- 💬 Ask me about anything related to web development, Web3.
+## 💼 About Me
 
-## Current Project: Web 3 UPI Application
+- 🎓 B.Tech @ **MNNIT Allahabad**, Mechanical Engineering (2024–2028)
+- 🧠 Passionate about building **low-latency systems**, automating decisions with **ML**, and exploring **trading infra**
+- 🛠 Contributor at [Booster Framework](https://github.com/boostercloud/booster)
+- 💬 Loves clean code, scalable APIs, and meaningful metrics
 
-I am currently developing a Web 3 UPI (Unified Payments Interface) application aimed at integrating decentralized financial services with traditional payment systems. This project involves:
+---
 
-- **Vision:** To provide a seamless, decentralized payment experience that bridges the gap between traditional banking and blockchain technology, enabling users to make and receive payments effortlessly using digital assets.
+## 🚀 Projects
 
-- **Technology Stack:**
-  - **Blockchain:** Ethereum and Solidity for smart contract development
-  - **Web3 Integration:** Use of Web3.js or Ethers.js for interacting with the Ethereum blockchain
-  - **Frontend:** React.js for building a responsive and intuitive user interface
-  - **Backend:** Node.js and Express for server-side logic and API management
-  - **Smart Contracts:** Development and deployment of smart contracts for secure transactions
-  - **Wallet Integration:** Incorporating MetaMask or similar wallets for user authentication and transactions
+### 🔹 **Automated Trading Platform**
+> Equity/options trading system with strategy execution, live monitoring & webhook alerts  
+- ⏱️ Executes trades in < 1s via Zerodha Kite Connect  
+- 📊 Custom dashboards for PnL, drawdown, alerts  
+- ⚙️ Stack: `Next.js`, `FastAPI`, `pandas`, `WebSockets`, `TA-Lib`  
+→ *Private repo, available upon request*
 
-###
+---
 
-###
+### 🔹 **Fraud Detection in Financial Transactions**
+> Identifies large-value fraudulent activity using engineered features and ML  
+- 🧠 AUC boosted to **0.962** using custom amount-weighted metrics  
+- 📈 Visuals: ROC, fraud heatmaps, confusion matrix  
+- 📁 [Colab Notebook](https://colab.research.google.com/drive/1Ix0cC1iJ258tKVOyhBkeEPpIfT5S5Eo7)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+---
 
-###
+### 🔹 **Threadchain (Experimental DApp)**
+> Censorship-resistant social platform built on-chain  
+- 🛠 Solana + Anchor smart contracts (Rust)  
+- 💻 UI in `Next.js`, `TailwindCSS`, `ShadCN/UI`  
+- ⚡ Fast reads/writes using Anchor Clients & IDLs  
+- 🌐 [Live Demo](https://threadchain.netlify.app)
 
-## Contact
-- **Email:** [jaiswalviraj72005@gmail.com](mailto:jaiswalviraj72005@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virajjai-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linke](https://www.linkedin.com/in/virajjaiswal72/))
-- **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-Virajjai-blue?logo=twitter&logoColor=white)](https://twitter.com/Virajjai72)
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Virajjai-blue?logo=github&logoColor=white)](https://github.com/Virajjai)
+---
 
-###
+## 🧠 Technical Skills
+
+**Languages:**  
+`TypeScript` `Python` `Rust` `C++` `Kotlin`  
+
+**Frameworks & Tools:**  
+`Next.js` `React` `FastAPI` `Node.js` `Docker` `Tailwind` `WebSockets`
+
+**Infra & Data:**  
+`PostgreSQL` `Redis` `MongoDB` `Supabase` `CI/CD` `Cloudflare` `Kubernetes`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Virajjai&show_icons=true&theme=radical&hide=contribs" alt="Viraj's GitHub stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virajjai&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</p>
+
+---
+
+## 💡 Currently Learning
+
+- Quantitative finance and strategy backtesting  
+- High-frequency systems and latency-sensitive infra  
+- Design patterns and distributed system principles
+
+---
+
+## 🤝 Open to
+
+- Internships in backend, fintech, or trading systems  
+- Open-source collaborations  
+- Hackathons or backend/data sidekick roles
+
+---
+
+📫 **Reach me anytime**:  
+[📧 Email](mailto:jaiswalviraj72005@email.com) | [🔗 LinkedIn](https://www.linkedin.com/in/virajjaiswal72) | [🌐 Portfolio](https://virajjai.github.io/personal-portfolio)
+
+---
+
+_“Learning fast, building faster. Let's solve hard problems together.”_

@@ -95,5 +95,6 @@
 
 _“Learning fast, building faster. Let's solve hard problems together.”_
 
-![Metrics](https://github.com/Virajjai/Virajjai/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Virajjai/Virajjai/master/github-metrics.svg)
+
 

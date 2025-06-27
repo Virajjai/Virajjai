@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Viraj Jaiswal 👋</h1>
 
 <p align="center">
-  🚀 Backend Developer | 📈 Fintech + ML Enthusiast | 🧠 Systems Thinker  
+  🚀 Backend Developer | 📈 Fintech + ML Enthusiast | 🧠 Systems Thinker   
 </p>
 
 <p align="center">
